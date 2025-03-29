@@ -15,7 +15,7 @@ import { Link } from '@chakra-ui/next-js';
 import { CiMenuBurger } from "react-icons/ci";
 import { FaHome, FaRegWindowClose } from "react-icons/fa";
 
-const Links = ["Sobre", "Projetos", "Agradecimentos", "Contato", "Jadson Brian"];
+const Links = ["Sobre", "Projetos", "Agradecimentos", "Jadson Brian"];
 
 const NavLink = ({ children }: { children: string }) => (
     <Link
